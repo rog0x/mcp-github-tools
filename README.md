@@ -1,4 +1,3 @@
-[![MCP Server](https://glama.ai/mcp/servers/rog0x/mcp-github-tools/badges/score.svg)](https://glama.ai/mcp/servers/rog0x/mcp-github-tools)
 
 # mcp-github-tools
 
