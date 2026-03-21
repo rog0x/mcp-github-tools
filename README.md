@@ -1,3 +1,5 @@
+[![MCP Server](https://glama.ai/mcp/servers/rog0x/mcp-github-tools/badges/score.svg)](https://glama.ai/mcp/servers/rog0x/mcp-github-tools)
+
 # mcp-github-tools
 
 An MCP (Model Context Protocol) server that provides GitHub analytics and management tools for AI agents. Analyze repositories, summarize pull requests, triage issues, generate release notes, and track contributor activity — all through a standardized tool interface.
